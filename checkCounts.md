@@ -1,7 +1,7 @@
 # Statistics of the converted 1000genomes VCF files in ADAM
 
 ### chr1
-Small stats of this [s3n://med-at-scale/1000genomes/ALL.chr1.integrated_phase1_v3.20101123.snps_indels_svs.genotypes.vcf.adam](data).
+Small stats of this [data](https://med-at-scale.s3.amazonaws.com/1000genomes/ALL.chr1.integrated_phase1_v3.20101123.snps_indels_svs.genotypes.vcf.adam).
 
  * number of samples:  1092
  * number of genotypes 3283858032
